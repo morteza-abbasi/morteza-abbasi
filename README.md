@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morteza-abbasi
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c++ Language
+- 🌱 I’m currently learning c++ & Python Language
 
 <!---
 morteza-abbasi/morteza-abbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
